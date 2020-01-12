@@ -44,4 +44,4 @@ You should now have access to Irish-language hyphenation in InDesign. Make sure 
 
 ### Commerical alternatives
 
-If you don't fancy completing the steps above there are a number of commercial solutions available, such as [MindHyph](http://mindsteam.com/products/mindhyph/index.html). These are typically paid software packages and that you download and install like any other piece of software and they require you to do very little. [Sigurður Ármannsson](https://font.is/) has also produced a package specially for Irish (having previously done the same for Icelandic and a number of other languages) and it should be available on his web shop soon.
+If you don't fancy completing the steps above there are a number of commercial solutions available. [Sigurður Ármannsson](https://font.is/) has produced a package specifically for Irish: it's available [here](https://lausnir.myshopify.com/collections/hunspell-is-innsetningarforrit/products/hunspell-for-gaeilge-irish-in-indesign-2020-on-a-mac) for a very reasonable price. Other solutions, such as [MindHyph](http://mindsteam.com/products/mindhyph/index.html), may also be available but I have not tested these.
