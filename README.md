@@ -27,6 +27,8 @@ The steps below describe how to obtain the appropriate Irish-language dictionari
 
 **Note:** If you are using Adobe InDesign Creative Cloud 2015 (or above) on Mac OS, please note you that, for now, you *must* use a commerical solution such as those described at the end of this article. This is due to a long-standing InDesign bug that is described in more detail [here](https://indesign.uservoice.com/forums/601180-adobe-indesign-bugs/suggestions/32569186-hunspell-dictionaries-cannot-be-added-in-sierra-or).
 
+### Steps
+
 1. First, you will need the appropriate spelling and hyphenation dictionaries for Irish. For simplicity, you can download them [here](https://github.com/rodoch/indesign-gaeilge/raw/master/ga_IE.zip). I retrieved them from the Mozilla Firefox [language pack](https://addons.mozilla.org/en-US/firefox/addon/litreoir-gaelspell-do-mhozilla/) repository and, if you're reading this in this distant future, you might want to go there to get the latest version.
 2. Unzip the file you just downloaded. (If you downloaded the package from Mozilla it will likely have a `.xpi` extension or similar but it's really just a standard archive file: you can rename the file extension to `.zip` and extract the files as normal.)
 3. The resulting folder should contain at least the following three files: **ga_IE.aff** (an affix file), **ga_IE.dic** (the spelling dictionary), **hyph_ga_IE.dic** (the hyphenation dictionary). The naming of the files is important as it's part of how InDesign finds and recognises them. If, for any reason, your files look different see if you can rename them appropriately.
