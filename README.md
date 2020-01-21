@@ -10,7 +10,7 @@ In the digital age, hyphenation has often been neglected in Irish-language print
 
 Hyphenation, when done wrong, can be particularly off-putting for the reader: consider where a word like *comhairle* is hyphenated as 'com- hairle', with the segment 'hairle' beginning on a new line. This is extremely hard to parse for a competent reader of Irish as the letter 'm', in this case, is modified or lenited by the 'h', known as a *séimhiú*. Irish orthography dictates that these letters should never be separated and to do so would be comparable to representing the English-language word 'though' as 'thou- gh'. As such, *comhairle* is much better hyphenated as 'comh- airle'. These issues are discussed in greater detail in [an article](http://www.tug.org/TUGboat/Articles/tb24-2/tb77scannell.pdf) by language technologist Kevin Scannell.
 
-![Hyphenated and non-hyphenated text blocks compared](./example/jpg)
+![Hyphenated and non-hyphenated text blocks compared](./example.jpg)
 
 ## Software solutions for hyphenation
 
