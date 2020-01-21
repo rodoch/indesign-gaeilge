@@ -1,16 +1,16 @@
 # Irish-language hyphenation in Adobe InDesign
 
-Updated: 11 January 2020
+***Updated:*** 11 January 2020
 
 Hyphenation is the automated process of breaking words between lines to create more consistency across a text block. When text is justified—that is to say, when text is set to fill the full width of space available—hyphenation is essential to providing optimum legibility and avoiding 'rivers' or large, unattractive gaps running vertically through the text.
+
+![Hyphenated and non-hyphenated text blocks compared](./example.jpg)
 
 ## Hyphenation in Irish-language texts
 
 In the digital age, hyphenation has often been neglected in Irish-language printed text. Sometimes it is turned off or, worse again, implemented according to English-language or 'language-neutral' orthography. Some publications avoid using justified text altogether; perhaps partly for the reason that doing so avoids having to tackle the hyphenation question.
 
 Hyphenation, when done wrong, can be particularly off-putting for the reader: consider where a word like *comhairle* is hyphenated as 'com- hairle', with the segment 'hairle' beginning on a new line. This is extremely hard to parse for a competent reader of Irish as the letter 'm', in this case, is modified or lenited by the 'h', known as a *séimhiú*. Irish orthography dictates that these letters should never be separated and to do so would be comparable to representing the English-language word 'though' as 'thou- gh'. As such, *comhairle* is much better hyphenated as 'comh- airle'. These issues are discussed in greater detail in [an article](http://www.tug.org/TUGboat/Articles/tb24-2/tb77scannell.pdf) by language technologist Kevin Scannell.
-
-![Hyphenated and non-hyphenated text blocks compared](./example.jpg)
 
 ## Software solutions for hyphenation
 
