@@ -44,7 +44,7 @@ The steps below describe how to obtain the appropriate Irish-language dictionari
 7. Open the **Info.plist** file in a text editor application such as Notepad, Notepad++, Visual Studio Code, etc. Note that there are three sections in this file: `SpellingService`, `UserDictionaryService` and `HyphenationService`. Under each 'heading' there is a list of language codes enclosed in tags, such as `<string>kn_IN</string>`. For each section you need to add `<string>ga_IE</string>` tag to the list. The order of tags in the list is not important.
 8. Restart InDesign.
 
-You should now have access to Irish-language hyphenation in InDesign. Make sure InDesign knows which language it's dealing with by either setting the language in a paragraph style or character style (see the **Advanced Character Formats** tab) in your document.
+You should now have access to Irish-language hyphenation in InDesign. Make sure InDesign knows which language it's dealing with by setting **Paragraph Style/Character Style** > **Advanced Character Format** > **Language** in your document.
 
 ### Commerical alternatives
 
