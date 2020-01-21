@@ -10,6 +10,8 @@ In the digital age, hyphenation has often been neglected in Irish-language print
 
 Hyphenation, when done wrong, can be particularly off-putting for the reader: consider where a word like *comhairle* is hyphenated as 'com- hairle', with the segment 'hairle' beginning on a new line. This is extremely hard to parse for a competent reader of Irish as the letter 'm', in this case, is modified or lenited by the 'h', known as a *séimhiú*. Irish orthography dictates that these letters should never be separated and to do so would be comparable to representing the English-language word 'though' as 'thou- gh'. As such, *comhairle* is much better hyphenated as 'comh- airle'. These issues are discussed in greater detail in [an article](http://www.tug.org/TUGboat/Articles/tb24-2/tb77scannell.pdf) by language technologist Kevin Scannell.
 
+![Hyphenated and non-hyphenated text blocks compared](./example/jpg)
+
 ## Software solutions for hyphenation
 
 Adobe InDesign has been the industry-standard software for commercial typesetting and laying out of text for publication for some time now. InDesign comes prepackaged with spelling and hyphenation tools for a number of languages but Irish is not among these. This may go some way to explain the relative absence of proper hyphenation in Irish-language publications as practitioners may believe no technical solution is available.
@@ -25,7 +27,7 @@ While these solutions have been available for some time many practitioners are u
 
 The steps below describe how to obtain the appropriate Irish-language dictionaries and install them in InDesign on both Windows and Mac OS platforms. Following these steps requires no in-depth technical knowledge but may be outside of some people's comfort zone. As such, it bears mentioning that a few commercial solutions, using InDesign plugins, exist. These are somewhat simpler to install—usually requiring you to do no more than download a file and click OK a couple of times—but do not come for free. Some commerical options are discussed at the end of this document.
 
-**Note:** If you are using Adobe InDesign Creative Cloud 2015 (or above) on Mac OS, please note you that, for now, you *must* use a commerical solution such as those described at the end of this article. This is due to a long-standing InDesign bug that is described in more detail [here](https://indesign.uservoice.com/forums/601180-adobe-indesign-bugs/suggestions/32569186-hunspell-dictionaries-cannot-be-added-in-sierra-or).
+**Note:** If you are using Adobe InDesign Creative Cloud 2015 or above on Mac OS, please note you that, for now, you *must* use a commerical solution such as those described at the end of this article. This is due to a long-standing InDesign bug (described in more detail [here](https://indesign.uservoice.com/forums/601180-adobe-indesign-bugs/suggestions/32569186-hunspell-dictionaries-cannot-be-added-in-sierra-or)).
 
 ### Steps
 
